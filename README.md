@@ -1,2 +1,0 @@
-# DFLI
-Paper:LEO
